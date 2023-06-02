@@ -11,7 +11,7 @@
 ## 使用方式
 为了遵守LLaMA模型许可证，我们将ChatYuan-7B权重发布为增量权重。您可以将我们的增量权重与原始的LLaMA权重相加，得到ChatYuan-7B权重。
 
-1. 通过原始[LLaMA-7B](https://github.com/facebookresearch/llama)生成LLaMA的hf模型(LLaMA-7B-HF)，可以参考[指导](https://huggingface.co/docs/transformers/main/model_doc/llama)
+1. 通过原始[LLaMA-7B](https://github.com/facebookresearch/llama)生成LLaMA的hf模型(LLaMA-7B-HF)，可以参考[指导](https://huggingface.co/docs/transformers/main/model_doc/llama), 也可以直接使用[llama-7b-hf](https://huggingface.co/decapoda-research/llama-7b-hf)
 2. 合并LLaMA-7B的hf模型和ChatYuan-7B模型
 ### 合并脚本
 ```shell
