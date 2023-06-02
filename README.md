@@ -33,7 +33,7 @@ tokenizer = AutoTokenizer.from_pretrained(ckpt)
 ## 推理方式
 
 ```python
-prompt = "用户:  \n小元: "
+prompt = "用户:怎么让自己精力充沛，列5点建议\n小元: "
 input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(device)
 generate_ids = model.generate(input_ids, max_new_tokens=1024, do_sample = True, temperature = 0.7)
 output = tokenizer.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
