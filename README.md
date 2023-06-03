@@ -15,7 +15,7 @@
 2. 合并LLaMA-7B的hf模型和ChatYuan-7B模型
 ### 合并脚本
 ```shell
-python3 apply_delta.py --base ~/model_weights/LLaMA-7B-HF --delta ~/model_weights/ChatYuan-7B --target ~/model_weights/ChatYuan-7B-merge
+python3 apply_delta.py --base ~/model_weights/llama-7b-hf --delta ~/model_weights/ChatYuan-7B --target ~/model_weights/ChatYuan-7B-merge
 ```
 
 ## 加载方式
