@@ -6,7 +6,7 @@
 3. 在数百万人类反馈数据集上进行指令微调训练
 
 
-## [在线DEMO.Huggingface](https://huggingface.co/spaces/ClueAI/ChatYuan-7B)
+### [在线DEMO.Huggingface](https://huggingface.co/spaces/ClueAI/ChatYuan-7B)
 
 ## 使用方式
 为了遵守LLaMA模型许可证，我们将ChatYuan-7B权重发布为增量权重。您可以将我们的增量权重与原始的LLaMA权重相加，得到ChatYuan-7B权重。
