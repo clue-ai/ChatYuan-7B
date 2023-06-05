@@ -174,6 +174,6 @@ In conclusion, this marketing plan will help Apple achieve its goals of increasi
 ## ChatYuan-7B讨论与交流
 
 <p float="left">   
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/img/chatyuan-7b.jpeg"  width="30%" height="30%"></img>
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/ChatYuan-7B/blob/main/resources/img/chatyuan-7b.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/ChatYuan-7B/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p> 
