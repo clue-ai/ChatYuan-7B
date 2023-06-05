@@ -169,3 +169,11 @@ In conclusion, this marketing plan will help Apple achieve its goals of increasi
 3. 在推理和编码方面仍然需要改进
 
 由于模型仍然存在限制，我们要求开发者只能将开源代码、数据、模型以及通过该项目生成的其他任何成果用于研究目的。不允许商业用途和其他潜在有害的使用场景。
+
+
+## ChatYuan-7B讨论与交流
+
+<p float="left">   
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/img/chatyuan-7b.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
+</p> 
