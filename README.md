@@ -164,7 +164,7 @@ In conclusion, this marketing plan will help Apple achieve its goals of increasi
 如果你觉得ChatYuan-7B对你有帮助，请用以下引用 BibTeX:
 ```
 @software{clueai2023chatyuan7b,
-  author = {Xuanwei Zhang and Liang Xu},
+  author = {Xuanwei Zhang, Liang Xu and Kangkang Zhao},
   title = {ChatYuan-7B: An Instruction-following LLaMA model in Chinese and English },
   month = May,
   year = 2023,
