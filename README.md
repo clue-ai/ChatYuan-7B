@@ -161,7 +161,7 @@ In conclusion, this marketing plan will help Apple achieve its goals of increasi
 
 
 ### 引用
-如果你觉得ChatYuan对你有帮助，请用以下引用 BibTeX:
+如果你觉得ChatYuan-7B对你有帮助，请用以下引用 BibTeX:
 ```
 @software{clueai2023chatyuan7b,
   author = {Xuanwei Zhang and Liang Xu},
