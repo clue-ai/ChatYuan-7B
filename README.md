@@ -158,3 +158,24 @@ In conclusion, this marketing plan will help Apple achieve its goals of increasi
   <img src="https://github.com/clue-ai/ChatYuan-7B/blob/main/resources/img/chatyuan-7b.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/clue-ai/ChatYuan-7B/blob/main/resources/img/brightmart.jpeg"  width="30%" height="30%"></img>
 </p> 
+
+
+### 引用
+如果你觉得ChatYuan对你有帮助，请用以下引用 BibTeX:
+```
+@software{clueai2023chatyuan7b,
+  author = {Xuanwei Zhang and Liang Xu},
+  title = {ChatYuan-7B: An Instruction-following LLaMA model in Chinese and English },
+  month = May,
+  year = 2023,
+  url = {https://github.com/clue-ai/ChatYuan-7B}
+}
+```
+```
+@article{touvron2023llama,
+  title={Llama: Open and efficient foundation language models},
+  author={Touvron, Hugo and Lavril, Thibaut and Izacard, Gautier and Martinet, Xavier and Lachaux, Marie-Anne and Lacroix, Timoth{\'e}e and Rozi{\`e}re, Baptiste and Goyal, Naman and Hambro, Eric and Azhar, Faisal and others},
+  journal={arXiv preprint arXiv:2302.13971},
+  year={2023}
+}
+```
