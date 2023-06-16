@@ -5,6 +5,7 @@
 2. 在数百种任务集上进行任务式指令微调训练
 3. 在数百万人类反馈数据集上进行指令微调训练
 
+## [ChatYuan-7B模型地址](https://huggingface.co/ClueAI/ChatYuan-7B)
 
 ### [在线DEMO.Huggingface](https://huggingface.co/spaces/ClueAI/ChatYuan-7B)
 
